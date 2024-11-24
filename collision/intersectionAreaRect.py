@@ -25,5 +25,3 @@ class RectCorrectError():
          print(0)
      else:
          print(width*height)
-
- intersectionAreaRect()
