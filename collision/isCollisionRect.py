@@ -17,6 +17,3 @@ class RectCorrectError():
         print("False")
     else:
         print("True")
-
-
- isCollisionRect()
