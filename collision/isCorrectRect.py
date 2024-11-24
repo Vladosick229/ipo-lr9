@@ -5,5 +5,3 @@ def isCorrectRect():
         print("False")
     else:
         print("True")
-
-isCorrectRect()
